@@ -1,0 +1,2 @@
+regionid, qta
+A01, 100
